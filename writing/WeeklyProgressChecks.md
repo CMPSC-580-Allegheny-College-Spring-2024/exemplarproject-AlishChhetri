@@ -200,6 +200,8 @@ My anti-pattern table:
 - Helped approve PRs and troubleshoot merge conflicts on GitHub
 - Planning for next week, potential use of Pandas to clean up data
 
-## Week 7:
+## Week 7-9:
 
+I created the artifact and worked on the exemplary writing assignment, as well as the analysis of the tool's output on the Chasten codebase. Through this process, we aimed to provide valuable insights into areas for potential improvement in code quality and highlight specific code mutations. While the current version of the tool is a proof of concept and may lack certain features and optimizations expected in the final version, it offers a promising starting point for further development and refinement. The calculated mutation score provides developers with a quantitative measure of their code’s test effectiveness, empowering them to make informed decisions to enhance their code. Additionally, the comprehensive report available in alish_result.json enables users to confirm mutation scores for specific patterns and functions, facilitating the assessment of their test suites against potential code mutations.
 
+I also contributed to my team by assisting them with their various tooling ideas, offering support and guidance throughout the brainstorming and development process. While focusing on my own artifact and writing assignment, I collaborated with team members to provide insights, feedback, and assistance where needed, fostering a collaborative environment aimed at achieving our collective goals. Working together, we aimed to explore different avenues and approaches to address the challenges and opportunities presented in our project, leveraging our diverse perspectives and expertise to drive innovation and progress.
